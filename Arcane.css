@@ -1,0 +1,111 @@
+body{
+  background: url(wp.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1{
+				color:white;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: purple;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+
+a:active {
+  color: blue;
+}
+
+li{
+				color:#00FFFF;
+}
+h1{
+      
+				text-align:center;
+}
+
+.logo{
+				background:black;
+				width:100%;
+				height:100px;
+}
+
+.Ato{
+      background:#4169E1;
+				width:100%;
+				height:50px;
+				top:100px;
+				border-radius:30px;
+				text-align:center;
+				position:relative;
+}
+
+.Ato2{
+				background:#FF1493;
+				width:100%;
+				height:50px;
+				top:150px;
+				border-radius:30px;
+				position:relative;
+				text-align:center;
+}
+
+.Ato3{
+				background:#32CD32;
+				width:100%;
+				height:50px;
+				top:200px;
+				border-radius:30px;
+				position:relative;
+				text-align:center;
+}
+
+.A{
+				background:#4169E1;
+				top:0px;
+				width:100%;
+				height:50px;
+				border-radius:30px;
+				text-align:center;
+				position:relative;
+}
+
+.B{
+				background:#FF1493;
+				top:0px;
+				width:100%;
+				height:50px;
+				border-radius:30px;
+				position:relative;
+				text-align:center;
+}
+
+.C{
+				background:#32CD32;
+				width:100%;
+				height:50px;
+				border-radius:30px;
+				position:relative;
+				text-align:center;
+}
+
+center{
+    font-size: 16px;
+    bottom:0px;
+    background-color:black;
+    text-align: center;
+    width:100%;
+    height:20px;
+    position:relative;
+			
+
